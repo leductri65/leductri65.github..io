@@ -375,6 +375,7 @@ html{
     padding: 11px;
     border: 1px solid #ccc;
     width: 100%;
+    outline: none;
 }
 
 .info-customer .contact-email-customer,
